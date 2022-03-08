@@ -42,10 +42,10 @@ nav a:hover {
 }
 
 .title{
-    top: 515px;
+    top: 415px;
     padding:0;
     margin:auto;
-    position: sticky;
+    position: relative;
     z-index: 100;
     background-color: transparent;
 }
